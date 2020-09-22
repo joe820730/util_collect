@@ -1,6 +1,6 @@
 # Utilities collection
 
-This repo collects some useful(maybe?) utilities in my work.
+This repo collects some useful utilities written by me, and used frequently.
 
 - CRC checksum  
   Used in UART communication between PC and MCU.
